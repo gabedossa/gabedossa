@@ -1,6 +1,6 @@
 ### Hi there, it's me, Dossa 👋
+### Oi pessoal, me chamo Grabriel Dossa, sou desenvolvedor React/react-native e java
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabedossa&show_icons=true&theme=radical)<br>
 <p>Languages</p>
 <div style="dislay= flex">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
