@@ -1,5 +1,4 @@
-### Hi there, it's me, Dossa 👋
-### Oi pessoal, me chamo Grabriel Dossa, sou desenvolvedor React/react-native e java;</br>
+### Oi pessoal, me chamo Grabriel Dossa, sou desenvolvedor React/react-native e java 👋</br>
 Principais Ferramentas: </br>
 -PostgreeSQL; </br>
 -React, React-native, HTML; </br>
