@@ -16,5 +16,6 @@ Principais Ferramentas: </br>
 
 <p>Contact</p>
 <div style="dislay= flex">
-  <div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><p> - SOON</p>
+  <p>SOON</p>
+  <div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
