@@ -15,5 +15,5 @@ Principais Ferramentas: </br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 <div>
-  <div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><p> : SOON;</p></div>
+  <div style="dislay= flex"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><p> : SOON;</p></div>
 </div>
