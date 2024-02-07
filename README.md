@@ -17,6 +17,6 @@ Principais Ferramentas: </br>
 <p>Contact</p>
 <div style="dislay= flex">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-[ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)]
 </div>
