@@ -1,8 +1,9 @@
 ### Oi pessoal, me chamo Grabriel Dossa, sou desenvolvedor React/react-native e java 👋</br>
 Principais Ferramentas: </br>
 -PostgreeSQL; </br>
--React, React-native, HTML; </br>
+-React, React-native, HTML, Flutter; </br>
 -Java; </br>
+-Dart; </br>
 
 <p>Languages</p>
 <div style="dislay= flex">
@@ -11,4 +12,6 @@ Principais Ferramentas: </br>
 <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
