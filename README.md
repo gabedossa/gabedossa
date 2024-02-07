@@ -1,4 +1,4 @@
-### Oi pessoal, me chamo Grabriel Dossa, sou desenvolvedor React/react-native e java 👋</br>
+### Hello everyone, my name is Gabriel Dossa, i'm designer and developer👋</br>
 -PostgreeSQL; </br>
 -React, React-native, HTML, Flutter; </br>
 -Java; </br>
