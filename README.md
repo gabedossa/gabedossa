@@ -2,7 +2,7 @@
 -PostgreeSQL; </br>
 -React, React-native, HTML, Flutter; </br>
 -Java; </br>
--Dart; </br>
+-Dart; (Learning) </br>
 
 <p>Languages</p>
 <div style="dislay= flex">
