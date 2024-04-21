@@ -13,7 +13,7 @@
     <td>
       <img
         align="left"
-        src=""
+        src="https://github-readme-stats.vercel.app/api?username=gabedossa&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
@@ -21,7 +21,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=gabedossa122&theme=dark&hide_border=false"
+        src="e"
         alt="Github Stats"
       />
     </td>
