@@ -42,7 +42,7 @@
   <li><a href="https://github.com/gabedossa/frontendmentor-free-newbie/tree/main/003%20-%20Blog%20preview%5BDONE%5D">Blog Preview[DONE] </a></li>
   <li><a href="https://github.com/gabedossa/frontendmentor-free-newbie/tree/main/004%20-%20Stats%20preview%20card%20component%5BDONE%5D">Stats preview card component[DONE] </a></li>
 </ol>
-<h4>React.js</h4>
+<h3>React.js</h3>
 <ol>
   <li><a href="https://github.com/gabedossa/-react.js-005---Single-price-grid-component"> Single price grid component[DONE] </a></li>
 </ol>
