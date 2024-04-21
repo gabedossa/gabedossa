@@ -11,6 +11,8 @@
       />
     </td></tr></br>
 </table>
+<h2>Languages</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h1>Project list</h1>
 <h3>Front-end mentor</h3>
