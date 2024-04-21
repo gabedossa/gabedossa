@@ -19,6 +19,19 @@
   </a>
 </p>
 <h2>Software</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,figma,idea,vscode,androidstudio,postgres" />
+  </a>
+</p>
+
+<h2>Famework & test</h2> 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,react" />
+  </a>
+</p>
+
 
 
 <h1>Project list</h1>
