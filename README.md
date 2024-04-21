@@ -13,9 +13,9 @@
 </table>
 
 <h2>Languages</h2>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,sql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java" />
   </a>
 </p>
 <h2>Software</h2>
