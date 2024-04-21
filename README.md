@@ -15,7 +15,7 @@
 <h2>Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,sql" />
   </a>
 </p>
 <h2>Software</h2>
