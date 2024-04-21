@@ -1,7 +1,6 @@
 ### Hello everyone, my name is Gabriel Dossa, i'm designer and developer👋</br>
 
 <h1>Status</h1>
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 
 <h2>Languages</h2>
