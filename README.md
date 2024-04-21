@@ -9,7 +9,7 @@
         src="https://github-readme-stats.vercel.app/api?username=gabedossa&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
-    </td>
+    </td></tr>br>
     <td>
       <img
         align="left"
