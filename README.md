@@ -9,23 +9,7 @@
         src="https://github-readme-stats.vercel.app/api?username=gabedossa&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
-    </td></tr>br>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=gabedossa&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="e"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
+    </td></tr></br>
 </table>
 
 <h1>Languages</h1>
