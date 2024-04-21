@@ -1,16 +1,13 @@
 ### Hello everyone, my name is Gabriel Dossa, i'm designer and developer👋</br>
 
 <h1>Status</h1>
-<table>
-  <tr>
-    <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=gabedossa&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
         alt="Github Stats"
       />
-    </td></tr></br>
-</table>
+</br>
+
 
 <h2>Languages</h2>
 <p>
