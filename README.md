@@ -10,7 +10,7 @@
       />
       </tr>
 </table>
-</br>
+<br>
 
 
 <h2>Languages</h2>
