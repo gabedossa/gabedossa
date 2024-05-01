@@ -46,8 +46,8 @@
 <ol>
   <li><a href="https://github.com/gabedossa/-react.js-005---Single-price-grid-component"> Single price grid component[DONE] </a></li>
 </ol>
-<h3>Electron.js</h3>
+<h3>Faculdade</h3>
 <ol>
-  <li><a href=""> Navegador(Browser)</a></li>
+  <li><a href=""> Projeto Aelita</a></li>
 </ol>
 
