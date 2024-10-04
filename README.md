@@ -34,7 +34,7 @@
 
 
 <h1>Project list</h1>
-<h3>Front-end mentor</h3>
-<h2>Newbie</h2>
-<h2>Junior</h2>
-<h2>Intermediate</h2>
+<h2>Front-end mentor</h2>
+<h3>Newbie</h3>
+<h3>Junior</h3>
+<h3>Intermediate</h3>
