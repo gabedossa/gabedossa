@@ -10,7 +10,7 @@
 <h2>Languages</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
   </a>
 </p>
 <h2>Software</h2>
