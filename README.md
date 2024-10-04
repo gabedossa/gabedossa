@@ -31,10 +31,3 @@
 <a href="https://www.instagram.com/gabriel.dossa.pessoal?igsh=Z3M3NTI3ajl2Zmo5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-vitor-santos-937a97b9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<h1>Project list</h1>
-<h2>Front-end mentor</h2>
-<h3>Newbie</h3>
-<h3>Junior</h3>
-<h3>Intermediate</h3>
