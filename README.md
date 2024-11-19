@@ -1,5 +1,6 @@
 ### Hello everyone, my name is Gabriel Dossa, i'm designer and developer👋</br>
 <p> Fronted Mentor projects: <a href="https://vercel.com/gabriel-dossas-projects">Projects in Vercel</a></p>
+<p> Code Wars Challenges: <a href="https://www.codewars.com/users/gabedossa/completed_solutions">Code Wars profile</a></p>
 <h1>Status</h1>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
