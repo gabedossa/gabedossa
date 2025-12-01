@@ -1,12 +1,6 @@
 ### Hello everyone, my name is Gabriel Dossa, i'm designer and developer👋</br>
 <p> Fronted Mentor projects: <a href="https://vercel.com/gabriel-dossas-projects">Projects in Vercel</a></p>
 <p> Code Wars Challenges: <a href="https://www.codewars.com/users/gabedossa/completed_solutions">Code Wars profile</a></p>
-<h1>Status</h1>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabedossa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabedossa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <h2>Languages</h2>
 <p>
